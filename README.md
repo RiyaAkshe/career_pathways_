@@ -43,7 +43,7 @@ Start the Development Server:
 The application will be available at http://localhost:5143.
 
 Usage
-Access the Platform: Open your browser and go to http://localhost:3000 to access the Career Pathways application.
+Access the Platform: Open your browser and go to http://localhost:5143 to access the Career Pathways application.
 Employee Interaction: Register or log in to manage your profile, browse jobs, and apply for positions.
 Employer Interaction: Register or log in to post job openings, update company information, and review applicants.
 Technologies
