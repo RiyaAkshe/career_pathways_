@@ -17,24 +17,21 @@ Git
 Steps
 Clone the Repository:
 
-bash
-Copy code
+
 git clone https://github.com/RiyaAkshe/career_pathways_.git
 Navigate to the Project Directory:
 
-bash
-Copy code
+
 cd career-pathways
 Install Dependencies:
 
-bash
-Copy code
+
 npm install
 Set Up Environment Variables:
 Create a .env file in the root directory and add the following variables:
 
 makefile
-Copy code
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 Start the Development Server:
